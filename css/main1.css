@@ -1,0 +1,48 @@
+
+
+/*
+#EAE7DC - egshell white
+#D8C3A5 - dark vanilla
+#8E8D8A - grey
+#E98074 - light red
+#E85A4F - dark red */
+
+
+
+
+.main_container{
+width:90%;
+margin: auto;
+padding: 20px 10px;
+background-color: #EAE7DC;
+
+}
+
+body{
+border-top: 0;
+background-color: #D8C3A5;
+color:#8E8D8A;
+margin: auto;
+}
+
+h1,h2,h3, body nav a{
+color: #E85A4F;
+font-family: 'Roboto', sans-serif;
+font-weight: 100;
+}
+
+body nav{
+text-align: center;
+border-bottom: solid 1px Lightgrey;
+background-color: #EAE7DC;
+weight:90%;
+margin:  0 auto;
+padding: 20px 10px;
+
+}
+body nav a {
+margin:0 10px
+text-transform uppercase;
+text-decoration: none;
+}
+

@@ -1,0 +1,16 @@
+.page-footer{
+background-color:#8E8D8A;
+}
+.page-footer .social{
+ list-style: none;
+ display: inline;
+ }
+
+ .page-footer .social li{
+ display: inline;
+ padding: 0 5px;
+ }
+
+ .page-footer .social li a{
+ color: white;
+ }
